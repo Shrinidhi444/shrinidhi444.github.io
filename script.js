@@ -21,7 +21,7 @@ function initChatbot() {
             <div class="chatbot-messages" id="chatMessages">
                 <div class="message bot-message">
                     <div class="message-content">
-                        Hi there! I'm Shrinidhi's assistant. Ask me about his skills, projects, or education.
+                        Hi there! I'm Shrinidhi's assistant. Ask me about her skills, projects, or education!.
                     </div>
                     <div class="message-time">${getCurrentTime()}</div>
                 </div>
